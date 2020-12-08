@@ -21,7 +21,8 @@ run.ipynb includes: <br>
 
 # Expected Result 
 map 0.28 <br>
-reproduce result by weight: https://drive.google.com/file/d/10wesM_p3qdOSB6x3WbU6JO2rhyuW7oZ_/view?usp=sharing
+reproduce result by weights below and modification of paths. <br>
+https://drive.google.com/file/d/10wesM_p3qdOSB6x3WbU6JO2rhyuW7oZ_/view?usp=sharing
 
 
 # Citation
