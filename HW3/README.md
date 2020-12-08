@@ -12,7 +12,12 @@ matplotlib <br>
 labelme2coco <br>
 
 # Run
-Run run.ipynb on google colab
+Exec run.ipynb on google colab <br>
+run.ipynb includes: <br>
+1. Extract lib and dataset in zip from drive to colab <br>
+2. Train <br>
+3. Predict <br>
+4. Save .json and pictures to drive <br>
 
 # Expected Result 
 map 0.28 <br>
