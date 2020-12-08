@@ -15,6 +15,7 @@ labelme2coco <br>
 Exec run.ipynb on google colab <br>
 run.ipynb includes: <br>
 1. Extract lib and dataset in zip from drive to colab <br>
+![image](https://github.com/b4435242/Vision/blob/main/HW3/Folder_Structure.png)
 2. Train <br>
 3. Predict <br>
 4. Save .json and pictures to drive <br>
