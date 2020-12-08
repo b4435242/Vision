@@ -1,6 +1,6 @@
 # HW3
 
-#requirements
+# requirements
 numpy 
 pillow
 scipy
@@ -11,8 +11,8 @@ imgaug
 matplotlib
 labelme2coco
 
-#run
+# run
 Run run.ipynb on google colab
 
-#citation
+# citation
 https://github.com/ayoolaolafenwa/PixelLib
