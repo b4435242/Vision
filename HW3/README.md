@@ -1,15 +1,15 @@
 # HW3
 
 # Requirements
-numpy <br>
-pillow <br>
-scipy <br>
-opencv-python <br>
-scikit-image <br>
-tensorflow <br>
-imgaug <br>
-matplotlib <br>
-labelme2coco <br>
+* numpy <br>
+* pillow <br>
+* scipy <br>
+* opencv-python <br>
+* scikit-image <br>
+* tensorflow (==2.2.0)<br>
+* imgaug <br>
+* matplotlib <br>
+* labelme2coco <br>
 
 # Run
 Exec run.ipynb on google colab <br>
