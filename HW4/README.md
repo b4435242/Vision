@@ -13,7 +13,7 @@ Run the latest version, version 7. <br>
 * Modified library used in this task: https://github.com/b4435242/DBPN-Deep_Back_Projection_Network-Keras
 * input data, e.g.training_hr_images / testing_lr_images 
 * best model weights <br>
-##### &rArr; All above needed resources are already contained in the kaggle notebook.
+#### &rArr; All above needed resources are already contained in the kaggle notebook.
 
 ## Expected Result 
 PSNR: 24.37
