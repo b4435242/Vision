@@ -10,7 +10,10 @@ Apply DBPN-Deep_Back_Projection_Network to solve this task
 ## How to reproduce the result
 Kaggle notebook link: https://www.kaggle.com/victorbj/dpbn-hw4 <br>
 Run the latest version, version 7. <br>
-Modified library used in this task: https://github.com/b4435242/DBPN-Deep_Back_Projection_Network-Keras
+* Modified library used in this task: https://github.com/b4435242/DBPN-Deep_Back_Projection_Network-Keras
+* input data, e.g.training_hr_images / testing_lr_images 
+* best model weights 
+All above needed resources are already contained in the kaggle notebook.
 
 ## Expected Result 
 PSNR: 24.37
