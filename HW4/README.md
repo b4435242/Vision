@@ -17,10 +17,6 @@ Run the latest version, version 7. <br>
 
 ## Expected Result 
 PSNR: 24.37
-visualization
-![image](https://github.com/b4435242/Vision/blob/main/HW4/results/11.png)
-![image](https://github.com/b4435242/Vision/blob/main/HW4/results/08.png)
-![image](https://github.com/b4435242/Vision/blob/main/HW4/results/01.png)
 
 
 ## Reference
